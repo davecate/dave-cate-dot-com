@@ -59,6 +59,11 @@ article {
 	margin: 20px 200px ;
 }
 
+/* HR width */
+hr {
+	width: 55%
+}
+
 /* Footer styling. */
 footer {
 	text-align: center ;
