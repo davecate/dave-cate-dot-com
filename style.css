@@ -8,7 +8,7 @@ body {
 
 
 /* Here I’ve made my picture into a circle. */
-img (
+img {
 	border radius: 50% ;
 }
 
