@@ -8,8 +8,9 @@ body {
 
 
 /* Here I’ve made my picture into a circle. */
-img {
-	width: 540px
+.headshot {
+	align: center ;
+	width: 540px ;
 	border radius: 50% ;
 }
 
