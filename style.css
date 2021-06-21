@@ -1,9 +1,10 @@
 /* Body styling. */
 body {
 	background-color: black ;
-	width: 89%
-	border-right: 3px solid white
-	padding-right: 5px
+	width: 89% ;
+	margin-right: 13px ;
+	border-right: 13px solid white ;
+	padding-right: 5px ;
 }
 
 
