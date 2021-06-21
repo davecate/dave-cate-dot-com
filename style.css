@@ -46,6 +46,7 @@ h2 {
 h3 {
 	font-family: Arial, sans-serif ;
 	font-size: 21px ;
+	margin: auto 5% ;
 }
 
 /* Non-header text styling. */
@@ -67,7 +68,7 @@ a:hover {color: green;}
 a:active {color: lightgreen;}
 
 a {
-	text-decoration: strong ;
+	font-style: strong ;
 }
 
 /* Contact section styling. */
