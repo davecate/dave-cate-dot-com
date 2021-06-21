@@ -70,10 +70,13 @@ a {
 	text-decoration: strong ;
 }
 
-/* Link styling specifically for contact section. */
+/* Contact section styling. */
+div {
+	text-align: center ;
+}
+
 article div a {
 	font-family: Courier New, monospace ;
-	text-align: center ;
 	margin-left: 17px ;
 	margin-right: 17px ;
 }
