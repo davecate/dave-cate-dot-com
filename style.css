@@ -2,15 +2,20 @@
 body {
 	background-color: black ;
 	width: 89% ;
-	margin: 1px 13px ;
-	border: 1px 13px solid white ;
-	padding: 1px 5px ;
+	margin-left: 13px ;
+	margin-right: 13px ;
+	border-left: 13px solid white ;
+	border-right: 13px solid white ;
+	padding-left: 5px ;
+	padding-right: 5px ;
 }
 
 
 /* Here I’ve made my picture into a circle. */
 .headshot {
-	float: center ;
+	display: block ;
+	margin-left: auto ;
+	margin-right: auto ;
 	width: 270px ;
 	border-radius: 50% ;
 }
