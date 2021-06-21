@@ -70,6 +70,14 @@ a {
 	text-decoration: strong ;
 }
 
+/* Link styling specifically for contact section. */
+article div a {
+	font-family: Courier New, monospace ;
+	text-align: center ;
+	margin-left: 17px ;
+	margin-right: 17px ;
+}
+
 /* HR styling. */
 hr {
 	width: 89% ;
