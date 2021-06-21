@@ -84,4 +84,4 @@ a  {
 a: link {color: white;}
 a: visited {color: lightgray;}
 a: hover {color: green;}
-a: active {color: green; text-decoration: underline;}
+a: active {color: lightgreen;}
