@@ -44,6 +44,11 @@ p, ol, ul {
 	font-size: 13px ;
 }
 
+/* Article margins. */
+article {
+	margin: 0px 200px ;
+)
+
 /* Footer styling. */
 footer {
 	text-align: center ;
