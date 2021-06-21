@@ -77,8 +77,11 @@ footer {
 }
 
 /* Link styling, with pseudoclasses. */
+a:link {color: white;}
+a:visited {color: lightgray;}
+a:hover {color: green;}
+a:active {color: lightgreen;}
 
-a: link {color: white;}
-a: visited {color: lightgray;}
-a: hover {color: green;}
-a: active {color: lightgreen;}
+a {
+	text-decoration: strong ;
+}
