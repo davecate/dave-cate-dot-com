@@ -60,24 +60,6 @@ article {
 	margin-right: 17% ;
 }
 
-/* HR width */
-hr {
-	width: 55%
-}
-
-/* Footer styling. */
-footer {
-	text-align: center ;
-}
-
-/* Class for contact buttons. */
-.contact-button {
-	border: 1px dashed white ;
-	padding: 21px, 34px ;
-	text-align: center ;
-	font-family: Arial, sans-serif ;
-}
-
 /* Link styling, with pseudoclasses. */
 a:link {color: white;}
 a:visited {color: lightgray;}
@@ -86,4 +68,15 @@ a:active {color: lightgreen;}
 
 a {
 	text-decoration: strong ;
+}
+
+/* HR styling. */
+hr {
+	width: 89% ;
+	padding: 5%
+}
+
+/* Footer styling. */
+footer {
+	text-align: center ;
 }
