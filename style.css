@@ -79,6 +79,7 @@ div {
 article div a {
 	font-family: Courier New, monospace ;
 	margin: 17px 34px;
+	padding: 5%
 }
 
 /* HR styling. */
@@ -89,5 +90,4 @@ hr {
 /* Footer styling. */
 footer {
 	text-align: center ;
-	padding: 5%
 }
