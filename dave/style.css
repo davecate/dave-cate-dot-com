@@ -33,7 +33,7 @@ h2 {
 }
 
 h3 {
-	font-size: 21 px ;
+	font-size: 21px ;
 }
 
 /* Non-header text styling. */
@@ -41,6 +41,11 @@ p, ol, ul {
 	font-family: Garamond, serif ;
 	font-size: 13px ;
 }
+
+/* Footer styling. */
+footer {
+	text-align: center ;
+)
 
 /* Class for contact buttons. */
 .contact-button {
