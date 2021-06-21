@@ -46,7 +46,7 @@ h2 {
 h3 {
 	font-family: Arial, sans-serif ;
 	font-size: 21px ;
-	margin: auto 5% ;
+	padding: auto 5% ;
 }
 
 /* Non-header text styling. */
